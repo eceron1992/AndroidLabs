@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AndroidLabs</string>
+    <string nane="hello_message">Kamusta!</string>
+    <string name="ButtonText">Ako button</string>
+</resources>
