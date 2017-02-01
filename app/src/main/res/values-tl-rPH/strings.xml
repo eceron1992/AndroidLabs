@@ -2,5 +2,7 @@
 <resources>
     <string name="app_name">AndroidLabs</string>
     <string nane="hello_message">Kamusta!</string>
-    <string name="ButtonText">Ako button</string>
+    <string name="ButtonText">Button ako</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="Login">Login</string>
 </resources>
