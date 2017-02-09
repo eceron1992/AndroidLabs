@@ -1,8 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">AndroidLabs</string>
-    <string nane="hello_message">Kamusta!</string>
+    <string name="hello_message">Kamusta!</string>
     <string name="ButtonText">Button ako</string>
     <string name="title_activity_login">LoginActivity</string>
-    <string name="Login">Login</string>
+    <string name="login">Login Name</string>
+    <string name="login_name">Login Name</string>
+    <string name="login_password">Password</string>
+    <string name="password_hint">Password</string>
+    <string name="switch_text">Paganahin ang isang bagay</string>
+    <string name="login_button">Login</string>
+    <string name="dialog_message">Gusto mo ba bumalik?</string>
+    <string name="dialog_title">Balik sa StartActivity</string>
+    <string name="pref_login"></string>
+    <string name="ok">Oo</string>
+    <string name="cancel">Hindi</string>
 </resources>
