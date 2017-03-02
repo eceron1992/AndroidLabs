@@ -3,6 +3,7 @@
     <string name="app_name">AndroidLabs</string>
     <string name="hello_message">Kamusta!</string>
     <string name="ButtonText">Button ako</string>
+    <string name="ButtonText2">Start Chat</string>
     <string name="title_activity_login">LoginActivity</string>
     <string name="login">Login Name</string>
     <string name="login_name">Login Name</string>
@@ -15,4 +16,6 @@
     <string name="pref_login"></string>
     <string name="ok">Oo</string>
     <string name="cancel">Hindi</string>
+    <string name="StartChat">Simula ang chat</string>
+    <string name="send_button">Magpadala</string>
 </resources>

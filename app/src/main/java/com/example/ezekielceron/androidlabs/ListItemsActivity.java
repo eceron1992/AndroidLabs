@@ -79,8 +79,7 @@ public class ListItemsActivity extends AppCompatActivity {
                             public void onClick(DialogInterface dialog, int id) {
 
                             }
-                        })
-                        .show();
+                        }).show();
 
             }
         });
